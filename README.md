@@ -1,2 +1,3 @@
-# zeit-now-minimum-example
-Minimum example for ZEIT now using express
+# Zeit Now Minimum Example
+
+Minimum example for [ZEIT Now](https://zeit.co/now) using express.
